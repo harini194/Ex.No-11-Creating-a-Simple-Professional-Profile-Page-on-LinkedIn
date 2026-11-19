@@ -153,33 +153,31 @@ Creating a professional LinkedIn profile involves collecting relevant informatio
 
 The general workflow is:
 
-┌────────────────────────┐
-│   PERSONAL INFORMATION │
-└───────────┬────────────┘
+     PERSONAL INFORMATION 
+
             ↓
-┌────────────────────────┐
-│     EDUCATION          │
-└───────────┬────────────┘
+       EDUCATION         
+
             ↓
-┌────────────────────────┐
-│  SKILLS & CERTIFICATES │
-└───────────┬────────────┘
+
+     SKILLS & CERTIFICATES 
+
             ↓
-┌────────────────────────┐
-│ PROJECTS & ACHIEVEMENTS│
-└───────────┬────────────┘
+
+    PROJECTS & ACHIEVEMENTS
+
             ↓
-┌────────────────────────┐
-│   ABOUT & HEADLINE     │
-└───────────┬────────────┘
+
+     ABOUT & HEADLINE     
+
             ↓
-┌────────────────────────┐
-│   PROFILE REVIEW       │
-└───────────┬────────────┘
+
+     PROFILE REVIEW      
             ↓
-┌────────────────────────┐
-│ PROFESSIONAL PROFILE   │
-└────────────────────────┘
+            
+    PROFESSIONAL PROFILE   
+
+
 
 ## BLOCK DIAGRAM
 PROFESSIONAL LINKEDIN PROFILE CREATION
